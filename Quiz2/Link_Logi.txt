@@ -1,0 +1,40 @@
+https://github.com/Reniferowski/SystemyMobilne/tree/main/Quiz2
+
+1. Po pierwszym uruchomieniu
+2022-10-15 16:51:55.798 13393-13393/com.example.quiz2 D/MainActivity: Wywołanie metody onCreate
+2022-10-15 16:51:56.006 13393-13393/com.example.quiz2 D/MainActivity: Wywołanie metody onStart
+2022-10-15 16:51:56.008 13393-13393/com.example.quiz2 D/MainActivity: Wywołanie metody onResume
+
+2. Po wciśnięciu przycisku cofnij
+2022-10-15 16:55:33.260 13477-13477/com.example.quiz2 D/MainActivity: Wywołanie metody onPause
+2022-10-15 16:55:33.713 13477-13477/com.example.quiz2 D/MainActivity: Wywołanie metody onStop
+
+3. Po ponownym uruchomieniu aplikacji
+2022-10-15 16:58:01.314 13661-13661/com.example.quiz2 D/MainActivity: Wywołanie metody onCreate
+2022-10-15 16:58:01.490 13661-13661/com.example.quiz2 D/MainActivity: Wywołanie metody onStart
+2022-10-15 16:58:01.492 13661-13661/com.example.quiz2 D/MainActivity: Wywołanie metody onResume
+
+4. Po wciśnięciu przycisku ekranu głównego Home
+2022-10-15 16:57:24.648 13477-13477/com.example.quiz2 D/MainActivity: Wywołanie metody onPause
+2022-10-15 16:57:24.655 13477-13477/com.example.quiz2 D/MainActivity: Wywołanie metody onStop
+
+5. Po powrocie do aplikacji z listy ostatnio używanych aplikacji
+2022-10-15 16:56:15.616 13477-13477/com.example.quiz2 D/MainActivity: Wywołanie metody onStart
+2022-10-15 16:56:15.617 13477-13477/com.example.quiz2 D/MainActivity: Wywołanie metody onResume
+
+6. Po zmianie orientacji ekranu
+2022-10-15 17:00:53.805 13661-13661/com.example.quiz2 D/MainActivity: Wywołanie metody onPause
+2022-10-15 17:00:53.811 13661-13661/com.example.quiz2 D/MainActivity: Wywołanie metody onStop
+2022-10-15 17:00:53.813 13661-13661/com.example.quiz2 D/MainActivity: Wywołanie metody onDestroy
+2022-10-15 17:00:53.831 13661-13661/com.example.quiz2 D/MainActivity: Wywołanie metody onCreate
+2022-10-15 17:00:53.858 13661-13661/com.example.quiz2 D/MainActivity: Wywołanie metody onStart
+2022-10-15 17:00:53.860 13661-13661/com.example.quiz2 D/MainActivity: Wywołanie metody onResume
+
+7. Po zmianie orientacji ekranu z zaimplementowanym zapisem stanu aplikacji
+2022-10-15 18:10:43.431  7231-7231  MainActivity            com.example.quiz2                    D  Wywołanie metody onPause
+2022-10-15 18:10:43.453  7231-7231  MainActivity            com.example.quiz2                    D  Wywołanie metody onStop
+2022-10-15 18:10:43.454  7231-7231  MainActivity            com.example.quiz2                    D  Wywołanie metody onSaveInstanceState
+2022-10-15 18:10:43.460  7231-7231  MainActivity            com.example.quiz2                    D  Wywołanie metody onDestroy
+2022-10-15 18:10:43.590  7231-7231  MainActivity            com.example.quiz2                    D  Wywołanie metody onCreate
+2022-10-15 18:10:43.625  7231-7231  MainActivity            com.example.quiz2                    D  Wywołanie metody onStart
+2022-10-15 18:10:43.627  7231-7231  MainActivity            com.example.quiz2                    D  Wywołanie metody onResume
