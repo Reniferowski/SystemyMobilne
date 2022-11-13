@@ -17,3 +17,7 @@ c
 3app/src/main/java/com/example/todo/TaskStorage.java,9\0\906ab95ed60384c8657ce0de6d67a86350766992
 \
 ,app/src/main/java/com/example/todo/Task.java,e\4\e4f866109c931c5ff372efcd10a6464243fd7011
+d
+4app/src/main/java/com/example/todo/TaskFragment.java,2\7\27ccbdf659a5b77399833847d3ffde2be1b9d2a1
+h
+8app/src/main/java/com/example/todo/TaskListFragment.java,1\f\1f0fde57ae9b1a726a3156989aea21b10d9b3fa2
