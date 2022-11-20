@@ -1,0 +1,17 @@
+
+g
+java:S1301†"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+v
+java:S1450!"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ıÿÿÿÿ
+r
+java:S1450"\Remove the "sensorManager" field and declare it as a local variable in the relevant methods.(Ş¬–„
+k
+java:S1450("URemove the "sensor" field and declare it as a local variable in the relevant methods.(ğËÈÇ
+F
+java:S18746"0Remove this use of "getColor"; it is deprecated.(•ˆÔİ
+E
+java:S1874>"0Remove this use of "getColor"; it is deprecated.(„†â
+R
+java:S1068&"7Remove this unused "sensorIconImageView" private field.(ÑôÌ¦øÿÿÿÿ
+@
+java:S1068("*Remove this unused "sensor" private field.(ğËÈÇ
