@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OpenLibraryAPIApp</string>
+    <string name="img_cover_desc">Book cover</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear search</string>
+
+    <string name="title">Title:&#160;</string>
+    <string name="author">Authors:&#160;</string>
+    <string name="pages">Pages:&#160;</string>
+    <string name="ebook">E-Book Availability:&#160;</string>
+</resources>
