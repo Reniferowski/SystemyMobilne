@@ -44,7 +44,7 @@ public class TaskFragment extends Fragment {
         TextView nameField = view.findViewById(R.id.task_name);
         CheckBox doneCheckBox = view.findViewById(R.id.task_done);
         Spinner categorySpinner = view.findViewById(R.id.task_category);
-        dateField = view.findViewById((R.id.task_date));
+        dateField = view.findViewById(R.id.task_date);
 
         nameField.setText(task.getName());
 
@@ -67,7 +67,7 @@ public class TaskFragment extends Fragment {
         DatePickerDialog.OnDateSetListener date = (view12, year, month, day) -> {
             calendar.set(Calendar.YEAR, year);
             calendar.set(Calendar.MONTH, month);
-            calendar.set(Calendar.DAY_OF_WEEK, day);
+            calendar.set(Calendar.DAY_OF_MONTH, day);
             setupDateFieldValue(calendar.getTime());
             task.setDate(calendar.getTime());
         };
